@@ -18,7 +18,7 @@ def datta():
             'age': 21
         },
         {
-            'name': 'Ali',
+            'name': 'Uzair',
             'age': 25
         }
     ]
