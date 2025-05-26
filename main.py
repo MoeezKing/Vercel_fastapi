@@ -2,7 +2,7 @@ from fastapi import FastAPI
 
 app = FastAPI()
 
-@app.get("/data")
+@app.get("/")
 def data():
     return {"message": "Hello World"}
 
